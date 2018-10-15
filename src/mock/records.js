@@ -1,0 +1,85 @@
+module.exports = function(){
+    return {
+        "code": "00000",
+        "msg": "成功",
+        "data": {
+            "count":"10",
+            "timeStamp":"1472723840975",
+            "hasNext":"true",
+            "pageSize":"10",
+            "records":[{
+                "amount":"－0.05",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"O",
+                "bizDay":"2016-09-12",
+                "ioDesc":"充值"
+            },
+            {
+                 "amount":"+0.05",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.03",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.04",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.06",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.07",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.08",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            },
+            {
+                 "amount":"+0.09",
+                "flowNo":"1232133213",
+                "accountNo":"",
+                "atAamount":"47.65",
+                "amountIO":"I",
+                "bizDay":"2016-09-12",
+                "ioDesc":"京东红包"
+            }]
+            
+        }
+    }
+}

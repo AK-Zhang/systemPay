@@ -1,0 +1,29 @@
+module.exports = function(){
+    return {
+        "code":"00000",
+        "msg":"成功",
+        "data":{
+            "cardList":[
+                {
+                    "bankCode":"CGB",
+                    "cardId":3000197920401,
+                    "cardNoEnd":"8466",
+                    "cardNoStart":"622568",
+                    "cardStatus":1,
+                    "cardTypeName":"信用卡",
+                    "mobile":"15001001031",
+                    "bankName":"广东发展银行" 
+                },
+                {
+                    "bankCode":"CGB",
+                    "cardId":3000186240401,
+                    "cardNoEnd":"8485",
+                    "cardNoStart":"622568",
+                    "cardStatus":1,
+                    "cardTypeName":"储蓄卡",
+                    "mobile":"15001001031",
+                    "bankName":"广东发展银行" 
+                }]
+            }
+        }
+}
