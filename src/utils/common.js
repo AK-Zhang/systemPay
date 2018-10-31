@@ -58,7 +58,7 @@ export default {
     return parseFloat((this.a.numMulti(num1, baseNum) + this.a.numMulti(num2, baseNum)) / baseNum)
   },
   /**
-   * 加法运算，避免数据相减小数点后产生多位数和计算精度损失。
+   * 减法运算，避免数据相减小数点后产生多位数和计算精度损失。
    *
    * @param num1被减数 | num2减数
    */

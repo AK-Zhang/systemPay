@@ -3,4 +3,5 @@ export const config = {
   domain: 'http://ac.timoral.com',  //企业项目部署服务器域名
   domainPersonal:'http://ac.timoral.com/people',//个人项目部署服务器域名
   jdpay:'http://open.jdpay.com/',//个人jd侧域名
+  personceshi:"http://192.168.1.209"
 }
